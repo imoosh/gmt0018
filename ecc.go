@@ -1,7 +1,7 @@
 package gmt0018
 
 import (
-	"gmt0018/gmsm/sm2"
+	"github.com/imoosh/gmt0018/gmsm/sm2"
 	"math/big"
 )
 
