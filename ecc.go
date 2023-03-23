@@ -1,7 +1,7 @@
 package gmt0018
 
 import (
-	"apigw-gm0018/gmsm/sm2"
+	"gmt0018/gmsm/sm2"
 	"math/big"
 )
 

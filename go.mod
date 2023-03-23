@@ -1,4 +1,4 @@
-module apigw-gm0018
+module gmt0018
 
 go 1.18
 
