@@ -27,7 +27,7 @@ import (
 	"io"
 	"math/big"
 
-	"hsm_proxy_http/lib/gmsm/sm3"
+	"github.com/imoosh/gmt0018/gmsm/sm3"
 )
 
 var (
