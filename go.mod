@@ -1,4 +1,4 @@
-module github.com/imoosh/gmt0018
+module gmt0018
 
 go 1.18
 

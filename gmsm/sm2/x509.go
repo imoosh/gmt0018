@@ -42,7 +42,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/imoosh/gmt0018/gmsm/sm3"
+	"gmt0018/gmsm/sm3"
 
 	"golang.org/x/crypto/ripemd160"
 	"golang.org/x/crypto/sha3"
