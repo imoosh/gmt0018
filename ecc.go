@@ -1,7 +1,7 @@
 package gmt0018
 
 import (
-	"gmt0018/gmsm/sm2"
+	"gitea.com/amchd/SSN_gmt0018/gmsm/sm2"
 	"math/big"
 )
 
