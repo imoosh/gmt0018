@@ -27,7 +27,7 @@ import (
 	"io"
 	"math/big"
 
-	"gmt0018/gmsm/sm3"
+	"gitea.com/amchd/SSN_gmt0018/gmsm/sm3"
 )
 
 var (
