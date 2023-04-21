@@ -1,4 +1,4 @@
-package gmt0018
+package SSN_gmt0018
 
 const (
 	//算法标识符

@@ -1,4 +1,4 @@
-package gmt0018
+package SSN_gmt0018
 
 import "C"
 import (
