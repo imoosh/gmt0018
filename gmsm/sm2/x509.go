@@ -42,7 +42,7 @@ import (
 	"strconv"
 	"time"
 
-	"gmt0018/gmsm/sm3"
+	"gitea.com/amchd/SSN_gmt0018/gmsm/sm3"
 
 	"golang.org/x/crypto/ripemd160"
 	"golang.org/x/crypto/sha3"
